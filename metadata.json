@@ -1,0 +1,6 @@
+{
+  "name": "College Research Scholar Hub",
+  "description": "Academic research paper repository and scholar dashboard with keyword cataloguing, proof document verification, and automated alert notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
